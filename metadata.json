@@ -1,0 +1,6 @@
+
+{
+  "name": "MySlide",
+  "description": "A web application for managing and auditing errors, with an admin panel and a public dashboard for statistics.",
+  "requestFramePermissions": []
+}
