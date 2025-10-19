@@ -67,7 +67,7 @@ const Sidebar: React.FC<{ view: View; setView: (view: View) => void }> = ({ view
                 </NavLink>
             </nav>
             <div className="mt-auto text-center text-slate-500 text-xs">
-                <p>&copy; 2024 MySlide</p>
+                <p>&copy; 2025 MySlide</p>
             </div>
         </aside>
     );
