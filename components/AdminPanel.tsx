@@ -222,7 +222,7 @@ const AdminPanel: React.FC = () => {
                                 </select>
                             </div>
                             <button type="submit" disabled={submitting.errorLog || !selectedLogEmployee || !selectedLogErrorType} className="px-6 py-2.5 bg-primary text-white font-semibold rounded-lg hover:bg-blue-500 transition-all duration-300 transform hover:-translate-y-0.5 shadow-md shadow-primary/20 disabled:bg-base-300 disabled:shadow-none disabled:cursor-not-allowed">
-                                {submitting.errorLog ? 'Logging...' : 'Log Error'}
+                                {submitting.errorLog ? 'Logging...' : 'OK'}
                             </button>
                         </form>
                     </div>
